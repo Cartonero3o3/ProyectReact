@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import Card from './card';
-import cards from "../css/card.css"
+import cards from "../css/cards.css"
 import { useContext } from 'react';
 import { Contexto } from '../context/MiProvider';
 
