@@ -1,9 +1,13 @@
 import './App.css';
 import Cards from './componentes/cards';
+import MiProvider from './context/MiProvider';
 
 function App() {
 	return (
-		<Cards />
+		<MiProvider>
+			<Cards />
+		</MiProvider>
+		
 	);
 }
 
