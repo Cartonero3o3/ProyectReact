@@ -9,28 +9,28 @@ export default function MiProvider({children}) {
                 description:
                     'Pikachu es un Pokémon de tipo eléctrico introducido en la primera generación. Es el Pokémon más conocido de la historia, debido a ser el acompañante del protagonista del anime, Ash Ketchum, y la mascota representante de la franquicia Pokémon.',
                 imageUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-          id: 1
+                id: 1
             },
             {
                 title: 'Charmander',
                 description:
                     'Charmander es un Pokémon de tipo fuego introducido en la primera generación. Es uno de los Pokémon iniciales que puede elegir el jugador al comenzar la aventura en las regiones Kanto y Johto.',
                 imageUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-          id: 2
+                id: 2
             },
             {
                 title: 'Squirtle',
                 description:
                     'Squirtle es un Pokémon de tipo agua introducido en la primera generación. Es uno de los Pokémon iniciales que puede elegir el jugador al comenzar la aventura en las regiones Kanto y Johto.',
                 imageUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
-          id: 3
+                id: 3
             },
             {
                 title: 'Bulbasaur',
                 description:
                     'Bulbasaur es un Pokémon de tipo planta/veneno introducido en la primera generación. Es uno de los Pokémon iniciales que puede elegir el jugador al comenzar la aventura en las regiones Kanto y Johto.',
                 imageUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
-          id: 4
+                id: 4
             },
         {
           title: 'Mewtwo',

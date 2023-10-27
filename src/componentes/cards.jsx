@@ -1,8 +1,9 @@
 
 import React, { useState } from 'react';
 import Card from './card';
-import imagen1 from '../img/imagen1.jpeg';
-import cards from '../css/cards.css'
+import { useContext } from 'react';
+import MiProvider from '../context/MiProvider';
+
 
 function Cards() {
   const deleteCard = (id) => {
