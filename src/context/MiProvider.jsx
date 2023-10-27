@@ -76,7 +76,7 @@ export default function MiProvider({children}) {
         {
           title: 'PeruanoChulo',
           description: 'Primer protagonista de la llamada serie pokemon, aun que su historia es tragica es para contar, cuando era chico vivio una vida miy dificil, lo hecharon de la casa, fue hacia el campo donde comia todo tipo de vichos, ahora de grande se le ocurrio que cada pokemon fuera cada uno de los vichos que tuvo que comer animatisados.',
-          imageUrl: imagen1,
+          imageUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
           id: 12
         },
     

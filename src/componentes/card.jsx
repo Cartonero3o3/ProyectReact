@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import card from '../css/card.css'
+import card from "../css/card.css"
+
 function Card(props) {
 	const [likes, setLikes] = useState(0);
 	return (
